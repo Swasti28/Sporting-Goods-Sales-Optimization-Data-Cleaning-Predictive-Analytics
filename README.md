@@ -42,9 +42,12 @@ The dataset contained multiple errors that affected the reliability of data anal
 After cleaning the data, we applied **regression modeling and market segmentation techniques** to determine key revenue drivers.
 
 ### **📊 Methodology:**
-✔ **Regression Analysis (Multiple Linear Regression):** Used to identify factors influencing total sales.  
+✔ **Regression Analysis (Multiple Linear Regression):** Used to identify factors influencing total sales. 
+
 ✔ **Market Segmentation:** Categorized stores based on location, customer demographics, and product types.  
-✔ **Predictive Analytics:** Forecasted future sales performance using historical data patterns.  
+
+✔ **Predictive Analytics:** Forecasted future sales performance using historical data patterns. 
+
 ✔ **Data Visualization (Tableau & Excel Charts):** Created dashboards to track revenue trends and store performance.  
 
 ### **✅ Key Findings:**
@@ -61,9 +64,12 @@ After cleaning the data, we applied **regression modeling and market segmentatio
 The final phase involved **evaluating store profitability, operational efficiency, and customer purchasing behavior** to provide actionable business recommendations.
 
 ### **📊 Methodology:**
-✔ **Store Location vs. Revenue:** Analyzed sales trends across malls vs. stand-alone locations.  
-✔ **Customer Behavior Analysis:** Measured the impact of loyalty programs, social media traffic, and promotional campaigns.  
+✔ **Store Location vs. Revenue:** Analyzed sales trends across malls vs. stand-alone locations.
+
+✔ **Customer Behavior Analysis:** Measured the impact of loyalty programs, social media traffic, and promotional campaigns. 
+
 ✔ **Profitability Forecasting:** Modeled expected sales based on optimized data inputs.  
+
 ✔ **Sales Background & Performance Correlation:** Compared store staff experience with revenue generation.
 
 ### **✅ Key Findings & Recommendations:**
