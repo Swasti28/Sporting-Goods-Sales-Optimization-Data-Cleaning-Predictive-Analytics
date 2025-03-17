@@ -21,8 +21,11 @@ The dataset contained multiple errors that affected the reliability of data anal
 
 ### **📊 Methodology:**
 ✔ **Identified & Fixed Data Errors:** Corrected inconsistencies in numeric values, categorical variables, and missing entries.
+
 ✔ **Standardized Formats & Removed Outliers:** Ensured uniformity in data types and removed extreme values that skewed analysis.
+
 ✔ **Dropped Irrelevant Columns:** Eliminated unnecessary attributes that did not contribute to the prediction model.
+
 ✔ **Handled Categorical Variables:** Reformatted qualitative data for machine learning compatibility.
 
 ### **✅ Key Findings:**
