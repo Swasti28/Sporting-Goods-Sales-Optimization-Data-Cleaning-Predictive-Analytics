@@ -90,3 +90,4 @@ This project provides **data-driven insights** for retail managers and investors
 🔹 **Deep Learning-based Demand Forecasting** 📈  
 🔹 **Customer Sentiment Analysis using NLP** 💬  
 🔹 **Advanced Market Segmentation with Clustering Algorithms** 🤖  
+
